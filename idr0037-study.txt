@@ -20,7 +20,7 @@ Study Author List	Vigilante A, Laddach A, Moens N, Meleckyte R, Leha A, Ghahrama
 Study PMC ID	PMC6381787
 Study DOI	https://doi.org/10.1016/j.celrep.2019.01.094 						
 # Study License and Data DOI							
-Study License	CC-BY 4.0						
+Study License	CC BY 4.0						
 Study License URL	https://creativecommons.org/licenses/by/4.0/						
 Study Copyright	Vigilante et al						
 Study Data Publisher	University of Dundee						
